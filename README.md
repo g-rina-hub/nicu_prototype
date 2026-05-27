@@ -28,3 +28,4 @@ The goal is to provide an open-source foundation for healthcare AI experimentati
 ```bash
 git clone https://github.com/g-rina-hub/nicu_prototype.git
 cd nicu_prototype
+```
