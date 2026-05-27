@@ -2,6 +2,14 @@
 
 AI-assisted neonatal intensive care workflow prototype.
 
+## Live Demo
+
+https://g-rina-hub.github.io/nicu_prototype/
+
+## Project Website
+
+https://g-rina.wixsite.com/stbc
+
 ## Overview
 
 This project explores how AI can support neonatal intensive care unit (NICU) workflows through clinical summarization, monitoring assistance, and healthcare-oriented interface design.
